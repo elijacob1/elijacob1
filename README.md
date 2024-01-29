@@ -1,8 +1,15 @@
-- Hi, I’m @elijacob1
-- I’m interested in macroeconomics and markets
-- How to reach me (@ejn2@williams.edu)
+## About me
 
-<!---
-elijacob1/elijacob1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a student at _Williams College_ majoring in math, economics, and psychology.
+
+I am currently abroad at the _London School of Economics_ studying economics and behavioral science.
+
+I will use this GitHub profile to showcase some of my **data science** projects.
+
+### Interests
+- Tennis
+- Macroeconomics
+- Reading
+- Python
+- Writing
+- Markets
